@@ -1,0 +1,4 @@
+cap
+===
+
+capistrano-demo
